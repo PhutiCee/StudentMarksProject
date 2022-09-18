@@ -1,10 +1,3 @@
-/**
- *
- * 202111021
- * Manendze RMM
- *
- */
-
 #include <iostream>
 
 using namespace std;
